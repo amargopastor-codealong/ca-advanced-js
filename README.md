@@ -6,14 +6,14 @@
 
 ## Table of Contents
 
-|                                                 |
-| ----------------------------------------------- |
-| [1. Introduction](./01-introduction/)           |
-| [2. Primitives types](./02-primitives-types/)   |
-| [3. Functions](./03-functions/)                 |
-| [4. Arrays](./04-arrays/)                       |
-| [5. Advanced](./05-advanced/)                   |
-| [6. Map Filter Reduce](./06-map-filter-reduce/) |
+|                                                      |
+| ---------------------------------------------------- |
+| [1. Introduction](./docs/01-introduction/)           |
+| [2. Primitives types](./docs/02-primitives-types/)   |
+| [3. Functions](./docs/03-functions/)                 |
+| [4. Arrays](./docs/04-arrays/)                       |
+| [5. Advanced](./docs/05-advanced/)                   |
+| [6. Map Filter Reduce](./docs/06-map-filter-reduce/) |
 
 ## References
 
