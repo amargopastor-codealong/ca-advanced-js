@@ -6,14 +6,15 @@
 
 ## Table of Contents
 
-|                                                      |
-| ---------------------------------------------------- |
-| [1. Introduction](./docs/01-introduction/)           |
-| [2. Primitives types](./docs/02-primitives-types/)   |
-| [3. Functions](./docs/03-functions/)                 |
-| [4. Arrays](./docs/04-arrays/)                       |
-| [5. Advanced](./docs/05-advanced/)                   |
-| [6. Map Filter Reduce](./docs/06-map-filter-reduce/) |
+| Index                                                           |
+| --------------------------------------------------------------- |
+| [1. Introduction](./docs/01-introduction/README.md)             |
+| [2. Primitives types](./docs/02-primitives-types/README.md)     |
+| [3. Functions](./docs/03-functions/README.md)                   |
+| [4. Arrays](./docs/04-arrays/README.md)                         |
+| [5. Advanced](./docs/05-advanced/README.md)                     |
+| [6. Map Filter Reduce](./docs/06-map-filter-reduce/README.md)   |
+| [7. Hoisting Shadowing](./docs/07-hoisting-shadowing/README.md) |
 
 ## References
 
